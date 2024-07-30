@@ -1,0 +1,22 @@
+####################
+# CONFIG
+####################
+name: BH Internet
+phone: 01 64 57 40 43
+
+email: contact@bhinternet.fr
+
+address1: 7 Avenue de l'Orme à Martin
+address2: 91000 Évry
+
+recaptcha:
+  client: 6LeQD4QcAAAAACRC7oNZXuJP8du_YkI0A63WP8jl
+  server: 6LeQD4QcAAAAAMG6yYW0Kb8UDoRejL6YCFIar_28
+
+website: 132
+websiteAddress: massage-thai-paris.com
+
+lang: fr
+
+url:
+  notify: "https://jgviaboye9.execute-api.eu-west-3.amazonaws.com/prod/notify"

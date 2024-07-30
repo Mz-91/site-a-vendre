@@ -1,0 +1,61 @@
+---
+layout: default
+permalink: /contact
+title: Contact et Informations | Sabaï Thaï Spa | 01 42 73 62 92
+description: Pour obtenir plus d'informations sur nos prestations, n'hésitez pas à nous contacter. Nous nous engageons à vous répondre dans les plus brefs délais.
+---
+<header class="header-below-nav" style='background-image: url("assets/img/massagecontact.png");'>
+	<div class="header-content">
+			<p class ="soulignement">CONTACT</p>
+	</div>
+</header>
+<div class="bgitems" style='background-image: url("assets/img/bgitem.png");'>
+    <div class="text-banner" style='background-image: url("assets/img/Group.png");'>
+        <h2>Réserver Maintenant</h2>
+    </div>
+    <br>
+    <br>
+    <br>
+
+		<div class="prevent">
+			<p>CE SITE INTERNET EST À VENDRE. IL S'AGIT D'UNE SOCIÉTÉ FICTIVE. SI VOUS SOUHAITEZ ACHETER CE SITE OU AVOIR PLUS D'INFORMATIONS N'HÉSITEZ PAS À NOUS CONTACTER</p>
+		</div>
+
+    <div class="contact-container" style="background-image: url(assets/img/pierre_form.png);">
+			<div class="bgcontact">
+				<div class="contact-info">
+					<h3 class="text-center price1"><strong>Contact</strong></h3>
+					<p class="text-center">Réservez votre première visite dès aujourd'hui</p>
+				</div>
+				<form class="form" id="contactForm" method="post" action="{{ site.data.company.url.notify }}">
+					<input type="hidden" name="lang" value="fr">
+					<input type="hidden" name="redirectUrl" value="{{site.data.company.url.redirect}}" />
+					<input type="hidden" name="type" value="contact" />
+					<input type="hidden" name="website" value="{{ site.data.company.website }}" />
+					<input type="hidden" name="lang" value="{{ site.data.company.lang }}" />
+					<input type="hidden" name="firstName" value="" />
+					<input type="hidden" name="key" value="{{ site.data.company.recaptcha.server }}">
+		
+					<div class="form-group">
+						<label for="name">Nom</label>
+						<input type="text" class="form-control" id="name" name="name" placeholder="Nom">
+					</div>
+		
+					<div class="form-group">
+						<label for="email">E-mail</label>
+						<input type="email" class="form-control" id="email" name="email" placeholder="me@company.com" aria-describedby="emailHelp">
+					</div>
+		
+					<div class="form-group">
+						<label for="commentaire">Message</label>
+						<textarea class="form-control" id="commentaire" name="commentaire" placeholder="Votre Message..." rows="3"></textarea>
+					</div>
+		
+					<button type="submit" class="button2 mt-5">Envoyer</button>
+				</form>
+			</div>
+		</div>
+		
+		
+    <br>
+</div>

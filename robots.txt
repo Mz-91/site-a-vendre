@@ -1,0 +1,6 @@
+---
+layout: none
+---
+Sitemap : https://www.massage-thai-paris.com/sitemap.xml
+User-agent: *
+Disallow:

@@ -1,0 +1,28 @@
+<div class="footer">
+    <div class="column logo">
+        <img src="{{site.baseurl}}/assets/img/bhlogo.png" alt="BHInternet">
+    </div>
+    <div class="column">
+        <h3><strong>Entreprise</strong></h3>
+        <p>BHInternet - Création site <br>internet en Essonne</p>
+    </div>
+    <div class="column">
+        <h3><strong>Pages</strong></h3>
+        <a href="{% link accueil.html %}">Accueil</a><br>
+        <a href="{% link quiSommesNous.html %}"><b>Qui sommes nous ?</b></a><br>
+        <a href="{% link service.html %}">Nos services</a><br>
+        <a href="#">Nos réalisations</a><br>
+        <a href="{% link contact.html %}">Contact</a><br>
+        <a href="#">Devis</a>
+    </div>
+    <div class="column">
+        <h3><strong>Contact</strong></h3>
+        <p> {{site.data.company.address1}} {{site.data.company.address2}}</p>
+        <p><a href="mailto:{{site.data.company.email}}" class="footer-links-link">{{site.data.company.email}}</a></p>
+        <p><b>Une question ?</b></p>
+        <p>Contactez-nous au : <a href="tel:{{site.data.company.phone}}"><b>{{site.data.company.phone}}</b></a></p>
+    </div>
+</div>
+<div class="copy">
+    <p>Copyright © 2024 BHInternet</p>
+</div>
