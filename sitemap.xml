@@ -1,157 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://www.massage-thai-paris.com/</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-  <loc>https://www.massage-thai-paris.com/massages-thai</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/bhinternet</loc>
 </url>
 <url>
-  <loc>https://www.massage-thai-paris.com/les-rituels</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/contact</loc>
 </url>
 <url>
-  <loc>https://www.massage-thai-paris.com/abonnements</loc>
-  <lastmod>2021-07-28T20:14:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/devis</loc>
 </url>
 <url>
-  <loc>https://www.massage-thai-paris.com/spa-de-luxe</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/message-envoye</loc>
 </url>
 <url>
-  <loc>https://www.massage-thai-paris.com/soins-et-beaute</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/galerie</loc>
 </url>
 <url>
-  <loc>https://www.massage-thai-paris.com/carte-cadeaux</loc>
-  <lastmod>2021-07-28T20:14:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/mentions-legales</loc>
 </url>
 <url>
-  <loc>https://www.massage-thai-paris.com/contact</loc>
-  <lastmod>2021-07-28T20:14:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/qui-sommes-nous</loc>
 </url>
 <url>
-  <loc>https://www.massage-thai-paris.com/massage-thai-paris-7</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/service</loc>
 </url>
-<url>
-  <loc>https://www.massage-thai-paris.com/bhinternet</loc>
-  <lastmod>2021-07-28T20:14:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/massage-express</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/massage-thai-aux-huiles</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/massage-thai-aux-huiles-chaudes</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/massage-thai-traditionnel</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/massage-4-mains</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/massage-aux-pierres-chaudes</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/massage-reflexologie-plantaire</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/formule-reflexologie-et-massage-thai-au-choix</loc>
-  <lastmod>2021-07-28T20:14:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/rituel-sabai-thai-spa-gommage-massage-au-choix</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/rituel-sabai-thai-spa-jacuzzi-massage-au-choix</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/rituel-sabai-thai-spa-sauna-massage-au-choix</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/rituel-sabai-thai-spa-hammam-massage-au-choix</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/rituel-royal-sabai-thai-spa-hammam-gommage-massage-au-choix</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/rituel-royal-sabai-thai-spa-sauna-gommage-massage-au-choix</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/rituel-royal-sabai-thai-spa-jacuzzi-gommage-massage-au-choix</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/sauna-privatif</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/hammam-privatif</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/gommage-fruite</loc>
-  <lastmod>2021-07-28T20:14:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.massage-thai-paris.com/jacuzzi-privatif</loc>
-  <lastmod>2021-07-28T20:14:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
 </urlset>
